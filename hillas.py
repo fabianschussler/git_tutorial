@@ -1,1 +1,2 @@
-print(New hillas algorithm)
+print('New hillas algorithm)'
+print('Vhanged')
